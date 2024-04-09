@@ -88,6 +88,7 @@ In this category, the Second Axiom of Psychohistory (KA → ¬P) and the Oedipus
 
 We can then consider natural transformations between these morphisms. A natural transformation η from KA → ¬P to KA → P would assign to each object (proposition) X in C a morphism ηX: ¬P(X) → P(X) such that for every morphism f: X → Y in C, the following diagram commutes:
 
+```
        KA(f)
  KA(X) ---->  KA(Y)
    |           |
@@ -95,6 +96,7 @@ We can then consider natural transformations between these morphisms. A natural 
    v           v
  ¬P(X) ---->  P(Y)
        P(f)
+```
 
 The existence of such a natural transformation would indicate a "structure-preserving map" between the two scenarios, suggesting a way in which the Oedipus myth can be seen as a "transformation" of the Second Axiom of Psychohistory.
 
@@ -108,6 +110,7 @@ In this setting, the natural transformation η described above would be a 2-morp
 This categorical approach provides a way to abstractly model and analyze the structural similarities and differences between the Second Axiom of Psychohistory and the Oedipus myth, and could potentially be extended to other similar scenarios. It offers a high-level, algebraic way of understanding the dynamics of knowledge, prediction, and agency in these systems.
 
 **Prompt:**
+
 OK, how about this. Let’s consider Universe 1, where the population is unaware of psychohistory and its predictions. Let
  - CurrentState1: n-category that represents the current state of Universe1
  - Prediction1: n-category that represents the predicted state of Universe1
@@ -123,6 +126,7 @@ Finally, let X represent an n+3 morphism between crossValidation1 and crossValid
 I believe the second axiom of psychohistory (that psychohistory is a self-negating prophecy) and the Oedipus example (a self-fulfilling prophecy) are consequences of the fact that X and predictedTrajectory do not commute.
 
 **Claude 3 Opus:**
+
 Your intuition is correct. The non-commutativity of X and predictedTrajectory captures the essence of both the Second Axiom of Psychohistory and the Oedipus example.
 
 Let's break this down:
