@@ -157,3 +157,7 @@ The non-commutativity of X and predictedTrajectory, then, doesn't affect the wel
 In Universe1, the cross validation morphism might be closer to an identity morphism (mapping "peace" to "peace" and "war" to "war"), indicating that the predictions are accurate. In Universe2, the cross validation morphism might look more like the one you described (mapping "peace" to "war" and "war" to "peace"), indicating that the predictions are inaccurate, possibly due to the population's reaction to the knowledge of the predictions.
 
 Thank you for catching my error and providing a clear example to illustrate the point. Your correction helps to clarify the role of the cross validation morphisms in this categorical model of prediction and outcome in the context of psychohistory and self-fulfilling/self-negating prophecies.
+
+---
+
+Licensed under https://creativecommons.org/licenses/by/4.0/
